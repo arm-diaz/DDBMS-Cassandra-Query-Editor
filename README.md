@@ -4,11 +4,6 @@
 
 ![Instructions](assets/screenshots/Distributed%20Database%20-%20Semester%20Project.png)
 
-## TODO LIST:
-
- + Host Website: Deploy App to a hosting service.
-    + To see more details click [here](https://www.animaapp.com/blog/industry/8-free-react-app-hosting-services/) or [here](https://www.makeuseof.com/heroku-alternatives-free-full-stack-hosting/)
-
 ## Setup AWS Keyspaces
 
 We use AWS CloudShell to configure our workspace.
@@ -145,3 +140,9 @@ Then, open [http://localhost:3000](http://localhost:3000) to view it in the brow
 ![NavigationMenu](assets/screenshots/Website%20template%202.png)
 
 ![QueryDB](assets/screenshots/Website%20template%203.png)
+
+## Entity Relationship Diagram
+
+[ER Diagram](FILE_NAME.pdf)
+
+![HomePage](assets/screenshots/ERD.png)
