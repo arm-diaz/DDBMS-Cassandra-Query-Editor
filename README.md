@@ -143,6 +143,6 @@ Then, open [http://localhost:3000](http://localhost:3000) to view it in the brow
 
 ## Entity Relationship Diagram
 
-[ER Diagram](https://github.com/arm-diaz/DDBMS-Cassandra-Query-Editor/blob/main/assets/pdf/ERD.pdf)
+To see the PDF click the following link: [ER Diagram](https://github.com/arm-diaz/DDBMS-Cassandra-Query-Editor/blob/main/assets/pdf/ERD.pdf)
 
 ![HomePage](assets/screenshots/ERD.png)
